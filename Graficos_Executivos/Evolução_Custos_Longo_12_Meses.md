@@ -13,3 +13,5 @@ do gráfico **Evolução_Custos_Longo_12_Meses.**
 - O gráfico reforça que a migração para AWS não só reduz custos, mas também garante estabilidade financeira e previsibilidade orçamentária ao longo do ano.
 
   
+
+---
