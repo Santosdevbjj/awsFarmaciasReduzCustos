@@ -1,4 +1,4 @@
-O gráfico **On_Premises_azul_e_AWS_verde.png**,
+O gráfico **On_Premises_azul_e_AWS_verde**,
 
 
 <img width="1080" height="554" alt="On_Premises_azul_e_AWS_verde" src="https://github.com/user-attachments/assets/7e42965d-c01e-4a92-bb5f-990dabda031d" />
