@@ -17,3 +17,121 @@ Essa experiência prática servirá como sua porta de entrada para o mundo da co
 
 ---
 
+
+
+Aqui está um README.md profissional e didático, estruturado para o repositório solicitado. Ele segue o modelo de relatório fornecido, mas adaptado para ser compreensível e útil para um gerente financeiro e um diretor financeiro, com foco em redução de custos em farmácias usando AWS:
+
+---
+
+📊 **Relatório de Implementação de Serviços AWS
+Bootcamp Santander 2025 - Ciência de Dados com Python**
+
+**Projeto:** Redução de Custos em Farmácias com AWS  
+
+**Data:** 27/11/2025  
+**Empresa:** Abstergo Industries (Farmácia Fictícia)  
+**Responsável:** Sergio Santos (Especialista em Cloud & Data Science)  
+
+---
+
+📌 **Introdução:**
+Este relatório apresenta o processo de implementação de ferramentas em uma empresa farmacêutica fictícia, realizado por Sergio Santos.  
+O objetivo do projeto é demonstrar como a adoção de serviços AWS pode reduzir custos operacionais, aumentar a eficiência e garantir escalabilidade para o negócio.  
+
+Foram elencados 3 serviços principais da AWS, escolhidos por seu impacto direto na redução de custos e otimização de processos.  
+
+---
+
+🏗️ **Descrição do Projeto**
+O projeto foi dividido em 3 etapas estratégicas, cada uma com objetivos específicos e benefícios claros para a área financeira e operacional.
+
+🔹 **Etapa 1: Amazon EC2 (Elastic Compute Cloud)**
+- Foco da ferramenta: Infraestrutura de servidores em nuvem.  
+- Caso de uso: Substituição de servidores físicos locais por instâncias EC2 sob demanda.  
+- Benefícios:  
+  - Redução de custos com aquisição e manutenção de hardware.  
+  - Pagamento apenas pelo uso (modelo pay-as-you-go).  
+  - Escalabilidade automática em períodos de maior demanda (ex.: campanhas de vacinação).  
+
+---
+
+🔹 **Etapa 2: Amazon RDS (Relational Database Service)**
+- **Foco da ferramenta:** Banco de dados gerenciado em nuvem.  
+- **Caso de uso:** Armazenamento seguro de informações de clientes, estoque e vendas.  
+- **Benefícios:**  
+  - Eliminação de custos com licenciamento e manutenção de servidores de banco de dados locais.  
+  - Alta disponibilidade e backup automático.  
+  - Segurança avançada com criptografia e controle de acesso.  
+
+---
+
+🔹 **Etapa 3: Amazon S3 (Simple Storage Service)**
+- **Foco da ferramenta:** Armazenamento de dados e documentos.  
+- **Caso de uso:** Digitalização de receitas médicas, notas fiscais e relatórios financeiros.  
+- **Benefícios:**  
+  - Redução de custos com papel e espaço físico.  
+  - Armazenamento ilimitado e altamente durável.  
+  - Integração com ferramentas de análise de dados para insights sobre vendas e estoque.  
+
+---
+
+💰 **Custos Envolvidos**
+- **EC2:** Instâncias sob demanda a partir de USD 0,0116/hora.  
+- **RDS:** Planos gerenciados a partir de USD 0,017/hora.  
+- **S3:** USD 0,023 por GB/mês.  
+
+> Comparado ao modelo tradicional (servidores locais, manutenção, energia elétrica e licenciamento), a economia estimada é de 30% a 45% nos primeiros 12 meses.  
+
+---
+
+🖥️ **Requisitos de Hardware e Software**
+- **Hardware local mínimo:** Apenas computadores para acesso administrativo.  
+- **Software necessário:** Navegador atualizado e credenciais AWS.  
+- **Infraestrutura física:** Reduzida ao mínimo, já que toda a operação será em nuvem.  
+
+---
+
+👩‍💻 **Capacitação Técnica**
+- **Treinamento de funcionários:**  
+  - Curso introdutório AWS Cloud Practitioner.  
+  - Treinamento em boas práticas de segurança e compliance.  
+  - Workshops internos sobre uso de dashboards financeiros e relatórios em nuvem.  
+
+- **Benefício para a gestão financeira:**  
+  - Acompanhamento em tempo real dos custos.  
+  - Relatórios automáticos de consumo e otimização.  
+
+---
+
+• **Conclusão:**
+A implementação dos serviços AWS na empresa Abstergo Industries tem como esperado:  
+- Redução significativa de custos operacionais.  
+- Maior eficiência e produtividade.  
+- Segurança e escalabilidade para o crescimento futuro.  
+
+Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias AWS, como AWS Lambda (serverless) e Amazon QuickSight (BI), para ampliar ainda mais os ganhos financeiros e operacionais.  
+
+---
+
+📎 **Anexos**
+- Manual de boas práticas AWS.  
+- Planilha comparativa de custos (On-Premises vs AWS).  
+- Documentação oficial dos serviços EC2, RDS e S3.  
+
+---
+
+✍️ **Assinatura do Responsável pelo Projeto**
+Sergio Santos – Especialista em Cloud & Data Science  
+
+---
+
+👉 **Esse arquivo deve ser salvo como README.md no repositório:** 
+awsFarmaciasReduzCustos  
+
+---
+
+**Autor:**
+Sergio Santos 
+
+---
+
