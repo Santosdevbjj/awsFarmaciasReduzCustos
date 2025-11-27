@@ -18,8 +18,41 @@ Essa experiência prática servirá como sua porta de entrada para o mundo da co
 ---
 
 
+ 
+**Descrição dos arquivos:**
 
-Aqui está um README.md profissional e didático, estruturado para o repositório solicitado. Ele segue o modelo de relatório fornecido, mas adaptado para ser compreensível e útil para um gerente financeiro e um diretor financeiro, com foco em redução de custos em farmácias usando AWS:
+**Readme.md:** arquivo com informações gerais do projeto.
+
+**planilha-comparativa-custos.csv**
+- Planilha comparativa dos custos
+
+
+**Relatorio_Executivo.md**
+- Relatório gerencial detalhado da implementação de redução de custos em Farmácias usando AWS.
+
+
+Pasta **Graficos_Executivos:** contém diversos gráficos para entender melhor a implantação da redução de custos em AWS. Os nomes dos arquivos indicam a sua função para análise.
+
+A pasta Graficos_Executivos é composta por um arquivo .md com um texto explicativo do gráfico, é um arquivo .png do com o gráfico em análise. Ambos têm o mesmo nome.
+
+
+**Graficos_Executivos/**
+
+• **Dashboard_Financeiro_Consolidado**
+
+• **Crescimento_Economia_Mes_a_Mes**
+
+
+• **Acumulado_Economia_Mensal**
+
+
+• **Evolução_Custos_Longo_12_Meses**
+
+• **Proporcao_Custos_Atuais_vs_AWS**
+
+• **On_Premises_azul_e_AWS_verde**
+
+ 
 
 ---
 
