@@ -33,7 +33,7 @@ Essa experiência prática servirá como sua porta de entrada para o mundo da co
 
 Pasta **Graficos_Executivos:** contém diversos gráficos para entender melhor a implantação da redução de custos em AWS. Os nomes dos arquivos indicam a sua função para análise.
 
-A pasta Graficos_Executivos é composta por um arquivo .md com um texto explicativo do gráfico, é um arquivo .png do com o gráfico em análise. Ambos têm o mesmo nome.
+A pasta **Graficos_Executivos** é composta por um arquivo **.md** com um texto explicativo do gráfico, é um arquivo **.png** do com o gráfico em análise. Ambos têm o mesmo nome.
 
 
 **Graficos_Executivos/**
