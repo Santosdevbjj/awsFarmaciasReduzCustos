@@ -46,9 +46,9 @@ Foram elencados 3 serviços principais da AWS, escolhidos por seu impacto direto
 O projeto foi dividido em 3 etapas estratégicas, cada uma com objetivos específicos e benefícios claros para a área financeira e operacional.
 
 🔹 **Etapa 1: Amazon EC2 (Elastic Compute Cloud)**
-- Foco da ferramenta: Infraestrutura de servidores em nuvem.  
-- Caso de uso: Substituição de servidores físicos locais por instâncias EC2 sob demanda.  
-- Benefícios:  
+- **Foco da ferramenta:** Infraestrutura de servidores em nuvem.  
+- **Caso de uso:** Substituição de servidores físicos locais por instâncias EC2 sob demanda.  
+- **Benefícios:**  
   - Redução de custos com aquisição e manutenção de hardware.  
   - Pagamento apenas pelo uso (modelo pay-as-you-go).  
   - Escalabilidade automática em períodos de maior demanda (ex.: campanhas de vacinação).  
