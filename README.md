@@ -123,10 +123,6 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a bu
 ✍️ **Assinatura do Responsável pelo Projeto**
 Sergio Santos – Especialista em Cloud & Data Science  
 
----
-
-👉 **Esse arquivo deve ser salvo como README.md no repositório:** 
-awsFarmaciasReduzCustos  
 
 ---
 
