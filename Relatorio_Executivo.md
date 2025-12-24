@@ -28,6 +28,9 @@ A **Abstergo Industries** (12 unidades + 1 CD) operava sob um modelo de TI *On-P
 
 A arquitetura foi desenhada seguindo o *AWS Well-Architected Framework*, garantindo isolamento de rede e resiliência.
 
+<img width="1080" height="1068" alt="arquitetura-projeto" src="https://github.com/user-attachments/assets/3580a0d3-37c6-40db-a334-90e2c1e99eef" />
+
+
 
 
 ### Detalhamento dos Componentes Técnicos:
