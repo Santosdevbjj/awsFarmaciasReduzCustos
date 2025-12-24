@@ -34,9 +34,9 @@ A arquitetura foi desenhada seguindo o *AWS Well-Architected Framework*, garanti
 
 | Serviço AWS | Caso de Uso | Benefício Técnico |
 | :--- | :--- | :--- |
-| **Amazon EC2** | ERP, PDV e Gestão de Estoque | Instâncias `t3.medium` com Auto Scaling e desligamento programado em homologação (economia de ~35% em horas ociosas). |
-| **Amazon RDS** | Dados de vendas e clientes | Banco PostgreSQL gerenciado com **Multi-AZ** para failover automático e backups diários. |
-| **Amazon S3** | Receitas médicas e notas fiscais | Armazenamento durável (11x9) com políticas de **Lifecycle** para mover arquivos antigos para o Glacier (custo reduzido). |
+| **Amazon EC2** | ERP, PDV e Gestão de Estoque | Instâncias `t3.medium` com Auto Scaling e desligamento programado (economia de ~35%). |
+| **Amazon RDS** | Dados de vendas e clientes | Banco PostgreSQL gerenciado com **Multi-AZ** para failover automático e backups. |
+| **Amazon S3** | Receitas médicas e notas fiscais | Armazenamento durável (11x9) com políticas de **Lifecycle** para redução de custo. |
 
 ---
 
@@ -60,25 +60,23 @@ Conforme as melhores práticas de governança, analisamos o valor agregado além
 | Aluguel salas/arquivo | R$ 42.000 | R$ 7.200 (S3) | ✅ R$ 34.800 |
 | **TOTAIS** | **R$ 153.000** | **R$ 57.600** | **💰 R$ 95.400** |
 
-*Valores baseados na planilha comparativa oficial do projeto.*
-
 ---
 
 ## ⚠️ 6. Riscos e Mitigação
 
 | Risco | Estratégia de Mitigação |
 | :--- | :--- |
-| **Custos Excedentes** | Implementação de **AWS Budgets** com alertas em 70%, 90% e 100% do gasto previsto. |
-| **Segurança/LGPD** | Uso de **IAM** com privilégio mínimo, MFA obrigatório e criptografia de dados em repouso. |
-| **Dependência de Internet** | Implementação de links redundantes (Fibra + 4G) e modo offline limitado para PDVs. |
+| **Custos Excedentes** | Implementação de **AWS Budgets** com alertas em 70%, 90% e 100%. |
+| **Segurança/LGPD** | Uso de **IAM** com privilégio mínimo, MFA obrigatório e criptografia de dados. |
+| **Dependência de Internet** | Implementação de links redundantes (Fibra + 4G) e modo offline para PDVs. |
 
 ---
 
 ## 🌱 7. Aprendizados e Boas Práticas
 
-* **Cloud Economics:** A migração foi pautada em dados financeiros reais, provando que a tecnologia deve ser um viabilizador de negócios.
-* **FinOps:** A importância do monitoramento diário e do uso de tags financeiras (`cost_center`, `project`) para evitar surpresas na fatura.
-* **Arquitetura Resiliente:** A escolha pelo Multi-AZ no RDS priorizou a continuidade das vendas sobre a economia mínima de curto prazo.
+* **Cloud Economics:** A tecnologia deve servir ao negócio. A migração foi pautada em dados financeiros reais.
+* **FinOps:** A importância do monitoramento diário e do uso de tags financeiras para evitar surpresas na fatura.
+* **Arquitetura Resiliente:** A escolha pelo Multi-AZ no RDS priorizou a continuidade das vendas sobre a economia mínima.
 
 ---
 
@@ -92,9 +90,9 @@ Conforme as melhores práticas de governança, analisamos o valor agregado além
 
 ## 📎 9. Anexos e Referências
 
-* 📊 [Gráficos Executivos e Dashboards](../Graficos_Executivos/)
-* 📑 [Planilha de Custos Comparativos (CSV)](../planilha-comparativa-custos.csv)
-* 📘 [Manual de Melhores Práticas AWS (PDF)](../Melhores_Praticas_AWS.pdf)
+* 📊 [Visualizar Dashboards Financeiros (PNG)](./Graficos_Executivos/Dashboard_Financeiro_Consolidado.png)
+* 📑 [Planilha Comparativa de Custos (CSV)](./Anexos/planilha-comparativa-custos.csv)
+* 📘 [Manual de Melhores Práticas AWS (PDF)](./Anexos/Melhores_Praticas_AWS.pdf)
 
 ---
-⬅️ **[Voltar para o README Principal](../README.md)**
+⬅️ **[Voltar para o README Principal](./README.md)**
