@@ -5,13 +5,6 @@
 
 **Bootcamp Santander 2025 - Ciência de Dados com Python.** 
 
----
-
-# 🚀 Redução de Custos em Farmácias com AWS
-
-![Capa do Projeto](https://github.com/user-attachments/assets/f471204d-c3ef-419c-979b-297f19b89a9d)
-
-**Bootcamp Santander 2025 – Ciência de Dados com Python** **Autor:** Sérgio Santos – Especialista em Cloud & Data Science
 
 ---
 
@@ -101,19 +94,7 @@ Visualize o impacto detalhado na pasta [Graficos_Executivos/](./Graficos_Executi
 * 📘 [Relatório Executivo Detalhado](./Relatorio_Executivo.md)
 * 📚 [Guia de Melhores Práticas AWS (PDF)](./Anexos/Melhores_Praticas_AWS.pdf)
 
----
 
-## 📩 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://santosdevbjj.github.io/portfolio/)
-
-
- 
- 
-
-
-xxcxcxxxxxxxxxxxcccccccccxxxxx
 
 
 
@@ -124,7 +105,8 @@ Sergio Santos
 
 ---
 
-**Contato:**
+
+## 📩 Contato
 
 
 
