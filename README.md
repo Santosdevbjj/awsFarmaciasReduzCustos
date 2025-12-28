@@ -1,4 +1,4 @@
-# Redução dos Custos em Farmácias com AWS
+# Redução dos Custos em Farmácias com AWS 
 
 ![CienciaDadosSantander](https://github.com/user-attachments/assets/f471204d-c3ef-419c-979b-297f19b89a9d)
 
